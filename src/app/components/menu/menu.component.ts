@@ -23,6 +23,11 @@ rutas=[
   {
     name:'Contact',
     path:'/contact'
+  },
+
+  {
+    name:'Posts',
+    path:'/posts'
   }
 ];
 }
